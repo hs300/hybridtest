@@ -1,9 +1,9 @@
 /hybridtest/Library/
-
+/hybridtest/Build
 /hybridtest/Logs/
-
+/hybridtest/.idea/
 /hybridtest/Temp/
-
+/hybridtest/HybridCLRData
 **.csproj
 
 **.sln
